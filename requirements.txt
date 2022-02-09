@@ -1,0 +1,3 @@
+# Libraries to be used in GCP.
+bs4
+python-dotenv

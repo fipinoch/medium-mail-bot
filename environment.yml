@@ -1,0 +1,14 @@
+name: weather-bot
+channels:
+  - conda-forge
+  - default
+dependencies:
+  - python=3.9
+  - jupyterlab
+  - bs4
+  - black
+  - pylint
+  - pip
+  - pip:
+    - nb_black
+    - python-dotenv
